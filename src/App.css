@@ -1,0 +1,8 @@
+#bg{
+  background-image: url("E:\weather app\vite-project\src\assets\med.jpg");
+  margin: 0;
+  padding: 0;
+  background-size: cover;  
+  background-repeat: no-repeat; 
+  background-position: center; 
+}
